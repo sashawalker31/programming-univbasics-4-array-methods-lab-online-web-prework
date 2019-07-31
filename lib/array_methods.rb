@@ -14,7 +14,7 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  famous_cats=["kidney", "bean", "soup"]
+  famous_cats=["wow", "bean", "soup"]
   famous_cats.first
 end
 
