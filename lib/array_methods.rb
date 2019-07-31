@@ -9,7 +9,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-  famous_cats=["kidney", "bean", "soup"]
+  famous_cats=["kidney", "bean", "arrays!"]
   famous_cats.reverse
 end
 
