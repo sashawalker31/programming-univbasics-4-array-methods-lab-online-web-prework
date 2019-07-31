@@ -19,7 +19,7 @@ def using_first(array)
 end
 
 def using_last(array)
-  famous_cats=["kidney", "bean", "soup"]
+  famous_cats=["kidney", "bean", "arrays!"]
   famous_cats.last
 end
 
