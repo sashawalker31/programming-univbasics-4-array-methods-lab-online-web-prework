@@ -25,5 +25,5 @@ end
 
 def using_size(array)
   famous_cats=["kidney", "bean", "soup"]
-  famous_cats
+  famous_cats.size
 end
